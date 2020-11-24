@@ -279,7 +279,7 @@ provider "aws" {
 ```
 
 
-#### tentando regioes
+#### Testando regiões
 
 
 ```
